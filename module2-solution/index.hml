@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<title>Ingredients For Yogurt</title>
+	<link rel="stylesheet" type="text/css" href="C:\Users\HP\Desktop\miah theddi\New folder\COUrseRA baby\Css for Module 2 Assignment.css">
+</head>
+<body>
+	<h1>Yogurt</h1>
+<div class="Lesson">
+<div class="One">
+<h2 class="Milk">Milk</h2>
+	<p id="One"> Milk is the most important Ingredient in yogurt making. Yogurt is basically fermented Milk</p>
+</div>
+<div class="Two">
+	<h2 class="Culture">Culture</h2>
+	<p id="Two"> Culture coloquially is Good bacteria, the bacterias used in Yogurt making are Lactobacillus and Strptococcus. They are the chief fermenters and they are responssible for yogurts distinct taste.</p>
+</div>
+<div class="Three">
+	<h2 class="hot">H20</h2>
+	<p id="Three"> Hot water activates the bacteria and helps it thrive. it is Important to use Just the right temperature of hot water.</p>
+</div>
+</div>
+</body>
+</html>
